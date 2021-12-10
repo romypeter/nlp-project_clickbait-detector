@@ -63,7 +63,7 @@ By analyzing the coefficients of the models that performed the best, We were abl
 
 ## Demo & App
 
-Try the deployed version (deployed using Heroku & Streamlit): https://cb-detector.herokuapp.com/
+Try the deployed version (deployed using Heroku & Streamlit): https://nlp-project-clickbait-detector.herokuapp.com/
 
 
 ## Repository Navigation 
